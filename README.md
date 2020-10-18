@@ -3,6 +3,9 @@
 # Documentation on how to use Chatbot
 
 # Tools that I used for this Chatbot
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=EH3yewkfAw"><img src="https://img.youtube.com/vi/EH3yewkfAw/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 # Block Diagram of this Chatbot
 ![](L5_chatbot_block_dig.png)
