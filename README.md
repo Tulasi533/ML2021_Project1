@@ -17,7 +17,7 @@ This is a simple chatbot made by python.
   - declares the winner of the game and plays a small joke.
 - *If user enters **quit game**.*
   - **Recorded video** saved in the same file location.
-  - **QR code** of the recordd video saved in the same file location.
+  - **QR code** of the recorded video saved in the same file location.
   
 
 # Tools that I used for this Chatbot
