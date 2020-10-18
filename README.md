@@ -9,7 +9,7 @@ This is a simple chatbot made by python.
    - Gives sim company and your nation **Ex:BSNL User, Indian**
 - *Asks to play a **Tic-Tac-Toe** game.*
 - *If user enters **start game**.*
-  -Starts the **Tic-Tac-Toe** game.
+  - Starts the **Tic-Tac-Toe** game.
   - Takes user name.
   - Starts game.
   - Starts recording of the screen.
