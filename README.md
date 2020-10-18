@@ -3,19 +3,19 @@ This is a simple chatbot made by python.
 
 # Documentation on how to use Chatbot
 ## Steps to use bot:
-- Open VS code.
-- Run the code with **python file_name.py** in the terminal.
-- Greeting messages by the bot. And ask to give phone number.
+- *Open VS code.*
+- *Run the code with **python file_name.py** in the terminal.*
+- *Greeting messages by the bot. And ask to give phone number.*
    - Gives sim company and your nation **Ex:BSNL User, Indian**
-- Asks to play a **Tic-Tac-Toe** game.
-- If user enters **start game**.
+- *Asks to play a **Tic-Tac-Toe** game.*
+- *If user enters **start game**.*
   -Starts the **Tic-Tac-Toe** game.
   - Takes user name.
   - Starts game.
   - Starts recording of the screen.
   - Game ends and recording stops.
   - declares the winner of the game and plays a small joke.
-- If user enters **quit game**.
+- *If user enters **quit game**.*
   - **Recorded video** saved in the same file location.
   - **QR code** of the recordd video saved in the same file location.
   
