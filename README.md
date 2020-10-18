@@ -10,6 +10,6 @@
 ![](L5_chatbot_block_dig.png)
 
 # Demo Video of this Chatbot
-[![](https://img.youtube.com/vi/-EH3yewkfAw/0.jpg)](https://www.youtube.com/watch?v=-EH3yewkfAw)
+[![Click on this](https://img.youtube.com/vi/-EH3yewkfAw/0.jpg)](https://www.youtube.com/watch?v=-EH3yewkfAw)
 
 Thank you
