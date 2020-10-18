@@ -1,2 +1,3 @@
 # ML2021_Project1
-A simple chatbot using Python programming
+
+# Documentation on how to use chatbot
