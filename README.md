@@ -30,9 +30,12 @@ This is a simple chatbot made by python.
 # Demo Video of this Chatbot
 [![Demo_Video](https://img.youtube.com/vi/-EH3yewkfAw/0.jpg)](https://www.youtube.com/watch?v=-EH3yewkfAw)
 
+
 # References
-
-
-Text-To-Speech Package in python [](https://www.thepythoncode.com/article/convert-text-to-speech-in-python)
+- [Text-to-Speech in Python](https://www.thepythoncode.com/article/convert-text-to-speech-in-python)
+- [To Make-Screen-Recording in Python](https://www.thepythoncode.com/article/make-screen-recorder-python)
+- [To get One-Line-Jokes in Python](https://pyjok.es/)
+- [To generate Qr-code in Python](https://pypi.org/project/qrcode/)
+- [To get Phone-number info](https://pypi.org/project/phonenumbers/)
 
 **Thank you**
