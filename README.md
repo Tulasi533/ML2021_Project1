@@ -38,4 +38,9 @@ This is a simple chatbot made by python.
 - [To generate Qr-code in Python](https://pypi.org/project/qrcode/)
 - [To get Phone-number info](https://pypi.org/project/phonenumbers/)
 
+# Team Mates
+- Ch.S.R.Tulasi **(18pa1a0533)**
+- Ch.Baby Navya **(18pa1a0426)**
+- Ch.Mahesh **(19pa1a0534)**
+
 **Thank you**
